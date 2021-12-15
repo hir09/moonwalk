@@ -1,1 +1,1 @@
-print("my py script is running successfully")
+print("edited code goes wrong or right")
